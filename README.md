@@ -1,6 +1,6 @@
 # About Me 👋✨ <img src="https://komarev.com/ghpvc/?username=wjacobw&label=visitors&color=121212&style=flat" alt="wjacobw" />
 
-<p> Hey there! I am William, an aspiring full stack developer 😎 and currently studying CS at the National University of Singapore! </p>
+<p> Hey there! I am William, an aspiring full stack developer and currently studying CS at the National University of Singapore! </p>
 <p>I enjoy doing mobile app and web development with Flutter and React. </p>
 
 ## Reach out to me
